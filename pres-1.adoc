@@ -1,0 +1,23 @@
+:revealjs_plugins: cbplugins.js
+:revealjs_plugins_configuration: cbplugins-conf.js
+= Title Slide
+:revealjsdir: reveal.js
+
+== Slide One
+
+* Foo
+* Bar
+* World
+
+++++
+<p class="fragment" data-audio-src="audio/2018-04-02-2028-now.mp3">Hear Me!</p>
+++++
+
+== Slide Two
+
+* foo
+
+== Slide Three
+
+* foo
+
