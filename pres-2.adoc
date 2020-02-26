@@ -3,7 +3,7 @@
 :revealjs_plugins_configuration: cbplugins-conf.js
 = Title Slide
 
-[audio-src="audio/2018-04-02-2028-now.mp3"]
+[audio-src="https://briefcaster-audio-output.s3.amazonaws.com/66d56a54-30ce-4bd0-86c7-580a1da4424c/2018-04-23-0110-now.mp3"]
 == Slide One
 
 * Foo
