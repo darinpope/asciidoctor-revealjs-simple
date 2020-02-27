@@ -9,3 +9,10 @@
 * Foo
 * Bar
 * World
+
+[audio-src="https://briefcaster-audio-output.s3.amazonaws.com/b845c0c4-c194-4465-81bb-cfda201f7524/2018-04-02-2028-now.mp3"]
+== Slide Two
+
+* Foo
+* Bar
+* World
