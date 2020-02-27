@@ -16,3 +16,10 @@
 * Foo
 * Bar
 * World
+
+[audio-src="https://briefcaster-audio-output.s3.amazonaws.com/b845c0c4-c194-4465-81bb-cfda201f7524/2018-05-01-1047-now.mp3"]
+== Slide Three
+
+* Foo
+* Bar
+* World
