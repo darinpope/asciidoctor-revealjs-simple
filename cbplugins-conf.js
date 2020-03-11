@@ -5,7 +5,7 @@ audio: {
         defaultNotes: false,     // use slide notes as default for the text to speech converter
         defaultText: false,     // use slide text as default for the text to speech converter
         advance: -1,         // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance 
-        autoplay: false,    // automatically start slideshow
+        autoplay: true,    // automatically start slideshow
         defaultDuration: 5,    // default duration in seconds if no audio is available 
         defaultAudios: false,    // try to play audios with names such as audio/1.2.ogg
         playerOpacity: 0.05,    // opacity value of audio player if unfocused
